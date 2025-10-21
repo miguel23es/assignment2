@@ -1,0 +1,25 @@
+
+1.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+2. 
+git rev-list --count HEAD and there are 9
+
+3. 
+It was last modified on Oct 21 at 12:03:32. I used stat README.md 
+
+4.
+It allows for specific workspace so it doesn't affect other files/code. Also, it makes collaboration easier since it allows multiple people work on different parts of the project/code.
+
+5.
+Git log shows the committed history of the repository and git status shows changes that haven't been committed yet.
+
+6. 
+Git log -- Vehicle.h
+
+7.
+git log --grep="file"
+
+8. 
+Inheritance is a mechanism that allows a class to obtain the attributes and methods of another class. Polymorphism allows a same method or function to behave differently according to the object that invokes it. Encapsulation consists in hiding the internal details of a class and protect the data to only be modified through controlled methods.
