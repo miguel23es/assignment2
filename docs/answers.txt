@@ -1,4 +1,7 @@
 
+List the date when you went through the Git Lab Tutorials. 10/21/25
+List the dates when you setup the GitHub Account. Around June 2022
+
 1.
 On branch master
 Your branch is up to date with 'origin/master'.
@@ -23,3 +26,9 @@ git log --grep="file"
 
 8. 
 Inheritance is a mechanism that allows a class to obtain the attributes and methods of another class. Polymorphism allows a same method or function to behave differently according to the object that invokes it. Encapsulation consists in hiding the internal details of a class and protect the data to only be modified through controlled methods.
+
+9. 
+In a "Integration Manager" workflow, each developer has his own public and private repository and all send "push" their changes to the public repository. Meanwhile, in a "Dictator and Lieutenants"workflow, there is a principal repository to which only the dictator can make "push" to it.
+
+10.
+A big team such as 100 developers would benefit from the "Dictator and Lieutenants" workflow instead of a “Integration manager” workflow because it distributes the load of integration and reduces code conflicts. Changes are sorted hierarchically, Lieutenants integrate the smallest contributions and only the dictator updates the main repository. 
